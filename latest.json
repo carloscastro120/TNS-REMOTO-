@@ -1,14 +1,15 @@
 {
-  "tag_name": "1.2.3",
+  "tag_name": "1.2.4",
   "body": "Actualización crítica de TNS Remoto",
   "assets": [
     {
-      "name": "TNS_RemoteV1.2.3.exe",
+      "name": "TNS_RemoteV1.2.4.exe",
       "browser_download_url": "https://github.com/carloscastro120/TNS-REMOTO-/blob/main/TNS_RemoteV1.2.3.exe"
     }
   ]
 
 }
+
 
 
 
