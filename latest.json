@@ -1,14 +1,13 @@
 {
   "tag_name": "2.0.0",
-  "body": "Actualización TNS Remoto-RustDesk",
   "assets": [
     {
       "name": "TNS_Remoto_2.0.0.exe",
       "browser_download_url": "https://github.com/carloscastro120/TNS-REMOTO-/raw/refs/heads/main/TNS_Remoto_2.0.0.exe"
     }
   ]
-
 }
+
 
 
 
